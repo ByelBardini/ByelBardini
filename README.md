@@ -34,10 +34,18 @@ Minhs Stack é focada principalmente em **Node.js, React e MySQL**, onde eu tamb
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="1000" height="10" />
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ByelBardini/ByelBardini/output/github-contribution-grid-snake-neon.svg" alt="snake animation"/>
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" width="1000" height="10" />
+
 ### Principais Projetos
 
 - [Commercial Share System](https://github.com/ByelBardini/commercial_share_system) - Projeto desenvolvido para organização interna do setor comercial nos atendimentos por estado e cidade;
 - [Human Resources System](https://github.com/ByelBardini/human_resources_system) [WIP] - Projeto desenvolvido para organização do setor de RH, planos de cargos, funcionários e carreiras;
+
+<img src="https://i.imgur.com/dBaSKWF.gif" width="1000" height="10" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00F0FF&center=true&vCenter=true&width=500&lines=Até+Mais+Mundo!" />
