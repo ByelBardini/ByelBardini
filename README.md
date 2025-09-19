@@ -42,8 +42,9 @@ Minhs Stack é focada principalmente em **Node.js, React e MySQL**, onde eu tamb
 
 ### Principais Projetos
 
-- [Commercial Share System](https://github.com/ByelBardini/commercial_share_system) - Projeto desenvolvido para organização interna do setor comercial nos atendimentos por estado e cidade;
+- [InfraHub](https://github.com/ByelBardini/it-management-system) - Projeto desenvolvido para realizar o inventário de itens de TI, gerenciar senhas e manutenções
 - [Human Resources System](https://github.com/ByelBardini/human_resources_system) - Projeto desenvolvido para organização do setor de RH, planos de cargos, funcionários e carreiras;
+- [Commercial Share System](https://github.com/ByelBardini/commercial_share_system) - Projeto desenvolvido para organização interna do setor comercial nos atendimentos por estado e cidade;
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="1000" height="10" />
 
