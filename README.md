@@ -42,7 +42,8 @@ Minhs Stack é focada principalmente em **Node.js, React e MySQL**, onde eu tamb
 
 ### Principais Projetos
 
-- [InfraHub](https://github.com/ByelBardini/it-management-system) - Projeto desenvolvido para realizar o inventário de itens de TI, gerenciar senhas e manutenções
+- [SumbIT](https://github.com/ByelBardini/helpdesk-system) - Projeto desenvolvido para abertura e gerenciamento de chamados para o setor de TI, assim como solicitações de compras;
+- [InfraHub](https://github.com/ByelBardini/it-management-system) - Projeto desenvolvido para realizar o inventário de itens de TI, gerenciar senhas e manutenções;
 - [Human Resources System](https://github.com/ByelBardini/human_resources_system) - Projeto desenvolvido para organização do setor de RH, planos de cargos, funcionários e carreiras;
 - [Commercial Share System](https://github.com/ByelBardini/commercial_share_system) - Projeto desenvolvido para organização interna do setor comercial nos atendimentos por estado e cidade;
 
