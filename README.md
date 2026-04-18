@@ -4,19 +4,18 @@
 <h1 align="center">
   💻  Seja Bem-Vindo  💻
   <br>  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00F0FF&center=true&vCenter=true&width=500&lines=Olá+Mundo!;Me+chamo+Gabryel;Desenvolvedor+Full+Stack;Estudante+de+TI;SC+-+Brasil" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00F0FF&center=true&vCenter=true&width=500&lines=Olá+Mundo!;Me+chamo+Gabryel;Desenvolvedor+Full+Stack;Bacharel+em+SI;SC+-+Brasil" />
 </h1>
 
 <div align="center">
-  <a style="text-decoration: none;" href="https://github.com/ByelBardini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByelBardini&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0,000000,0C0032" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByelBardini&layout=compact&theme=radical&hide_border=true&title_color=FF00FF&text_color=00FFFF&bg_color=0,000000,0C0032" />
+  <a style="text-decoration: none;" href="https://github.com/ByelBardini"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByelBardini&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0,000000,0C0032&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByelBardini&layout=compact&theme=radical&hide_border=true&title_color=FF00FF&text_color=00FFFF&bg_color=0,000000,0C0032&cache_seconds=1800" />
   </a>
 </div>
 
 ## Minha Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,java,solidity" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nest,html,css,react,java,spring,solidity" />
 </p>
 
 ## Sobre mim
