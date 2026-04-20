@@ -8,9 +8,17 @@
 </h1>
 
 <div align="center">
-  <a style="text-decoration: none;" href="https://github.com/ByelBardini"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByelBardini&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0,000000,0C0032&cache_seconds=1800" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByelBardini&layout=compact&theme=radical&hide_border=true&title_color=FF00FF&text_color=00FFFF&bg_color=0,000000,0C0032&cache_seconds=1800" />
-  </a>
+
+<a href="https://github.com/ByelBardini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByelBardini&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0,000000,0C0032&cache_seconds=900" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByelBardini&layout=compact&theme=radical&hide_border=true&title_color=FF00FF&text_color=00FFFF&bg_color=0,000000,0C0032&cache_seconds=86400" />
+</a>
+
+<br>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ByelBardini&theme=radical&hide_border=true&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&background=0D1117&cache_seconds=86400" />
+
 </div>
 
 ## Minha Stack
