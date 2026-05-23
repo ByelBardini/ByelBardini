@@ -10,9 +10,9 @@
 <div align="center">
 
 <a href="https://github.com/ByelBardini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByelBardini&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0,000000,0C0032&cache_seconds=900" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ByelBardini&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0,000000,0C0032&cache_seconds=900" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByelBardini&layout=compact&theme=radical&hide_border=true&title_color=FF00FF&text_color=00FFFF&bg_color=0,000000,0C0032&cache_seconds=86400" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ByelBardini&layout=compact&theme=radical&hide_border=true&title_color=FF00FF&text_color=00FFFF&bg_color=0,000000,0C0032&cache_seconds=86400" />
 </a>
 
 <br>
