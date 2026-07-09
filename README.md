@@ -17,7 +17,7 @@
 
 <br>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ByelBardini&theme=radical&hide_border=true&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&background=0D1117&cache_seconds=86400" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ByelBardini&theme=radical&hide_border=true&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&background=0D1117&cache_seconds=7200" />
 
 </div>
 
@@ -27,8 +27,8 @@
 </p>
 
 ## Sobre mim
-Sou um **Desenvolvedor FullStack**, estudante de **Sistemas de Informação**, atualmente explorando a àrea de **Blockchain**.
-Minhs Stack é focada principalmente em **Node.js, React e MySQL**, onde eu também estou aprendendo **Solidity**, sempre tentando usar a tecnologia de maneira criativa para resolver problemas e gargalos de onde trabalho!
+Sou um **Desenvolvedor FullStack**, com **Bacharelado em Sistemas de Informação**.
+Minha Stack é focada principalmente em **Node.js, React e MySQL**, onde eu também estou aprendendo **Solidity e Go**, sempre tentando usar a tecnologia de maneira criativa para resolver problemas e gargalos de onde trabalho!
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="1000" height="10" />
 
