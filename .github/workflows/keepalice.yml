@@ -1,0 +1,34 @@
+name: Keepalive
+
+# Evita que o GitHub desative os workflows agendados (stats/snake) após 60 dias
+# sem commits. Só um commit empurrado com um PAT reseta esse timer — o bot padrão
+# (GITHUB_TOKEN) não conta. Por isso o push usa o STATS_TOKEN.
+
+on:
+  schedule:
+    - cron: "0 3 1 * *" # dia 1 de cada mês, 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.STATS_TOKEN }}
+          fetch-depth: 0
+
+      - name: Empty commit if repo idle > 50 days
+        run: |
+          dias=$(( ( $(date +%s) - $(git log -1 --format=%ct) ) / 86400 ))
+          echo "Último commit há $dias dias."
+          if [ "$dias" -ge 50 ]; then
+            echo "Repo parado — criando commit de keepalive."
+            git config user.name "Gabryel"
+            git config user.email "gabryel.bardini@climba.com.br"
+            git commit --allow-empty -m "chore: keepalive"
+            git push
+          else
+            echo "Atividade recente — nada a fazer."
+          fi
