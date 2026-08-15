@@ -49,7 +49,7 @@ Sou um **Desenvolvedor Full Stack** com **Bacharelado em Sistemas de Informaçã
 
 <br>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=ByelBardini&theme=radical&hide_border=true&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&background=0,000000,0C0032&cache_seconds=7200" alt="sequência de contribuições" />
+<img height="180em" src="https://streak-stats.demolab.com?user=ByelBardini&theme=radical&hide_border=true&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&background=0,000000,0C0032&cache_seconds=7200&v=2" alt="sequência de contribuições" />
 
 </div>
 
@@ -68,7 +68,7 @@ Sou um **Desenvolvedor Full Stack** com **Bacharelado em Sistemas de Informaçã
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=00FFFF&authorColor=FF00FF&backgroundColor=0C0032&symbolColor=8A2BE2" alt="frase do dia" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=00FFFF&authorColor=FF00FF&backgroundColor=00000000&symbolColor=8A2BE2" alt="frase do dia" />
 </p>
 
 <img src="./assets/divider.gif" width="1000" height="10" alt="" />
