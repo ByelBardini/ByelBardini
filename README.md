@@ -5,7 +5,7 @@
 <h1 align="center">
   💻  Seja Bem-Vindo  💻
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&color=00F0FF&center=true&vCenter=true&width=500&lines=Olá+Mundo!;Me+chamo+Gabryel;Desenvolvedor+Full+Stack;Bacharel+em+SI;SC+-+Brasil" alt="Olá Mundo! Me chamo Gabryel" />
+  <img src="./assets/typing-intro.svg" alt="Olá Mundo! Me chamo Gabryel" />
 </h1>
 
 <p align="center">
@@ -90,7 +90,7 @@ Sou um **Desenvolvedor Full Stack** com **Bacharelado em Sistemas de Informaçã
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&color=00F0FF&center=true&vCenter=true&width=500&lines=Até+Mais+Mundo!" alt="Até Mais Mundo!" />
+  <img src="./assets/typing-bye.svg" alt="Até Mais Mundo!" />
   <br>
   <img height="400" src="./assets/footer.gif" alt="animação vaporwave de despedida" />
 </h1>
