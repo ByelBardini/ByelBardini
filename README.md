@@ -49,7 +49,7 @@ Sou um **Desenvolvedor Full Stack** com **Bacharelado em Sistemas de Informaçã
 
 <br>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=ByelBardini&theme=radical&hide_border=true&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&background=0,000000,0C0032&cache_seconds=7200&v=2" alt="sequência de contribuições" />
+<img height="180em" src="https://raw.githubusercontent.com/ByelBardini/ByelBardini/cards/streak.svg" alt="sequência de contribuições" />
 
 </div>
 

@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
         with:
           card: stats
-          options: "username=${{ github.repository_owner }}&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0,000000,0C0032"
+          options: "username=${{ github.repository_owner }}&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&bg_color=00000000"
           path: dist/stats.svg
           token: ${{ secrets.STATS_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
         with:
           card: top-langs
-          options: "username=${{ github.repository_owner }}&layout=compact&theme=radical&hide_border=true&title_color=FF00FF&text_color=00FFFF&bg_color=0,000000,0C0032"
+          options: "username=${{ github.repository_owner }}&layout=compact&theme=radical&hide_border=true&title_color=FF00FF&text_color=00FFFF&bg_color=00000000"
           path: dist/top-langs.svg
           token: ${{ secrets.STATS_TOKEN }}
 
@@ -35,7 +35,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
         with:
           card: pin
-          options: "username=${{ github.repository_owner }}&repo=financial-control&show_owner=false&theme=radical&hide_border=true&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0,000000,0C0032"
+          options: "username=${{ github.repository_owner }}&repo=financial-control&show_owner=false&theme=radical&hide_border=true&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&bg_color=00000000"
           path: dist/pin-financial-control.svg
           token: ${{ secrets.STATS_TOKEN }}
 
@@ -43,7 +43,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
         with:
           card: pin
-          options: "username=${{ github.repository_owner }}&repo=us-politicians-explorer&show_owner=false&theme=radical&hide_border=true&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0,000000,0C0032"
+          options: "username=${{ github.repository_owner }}&repo=us-politicians-explorer&show_owner=false&theme=radical&hide_border=true&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&bg_color=00000000"
           path: dist/pin-us-politicians-explorer.svg
           token: ${{ secrets.STATS_TOKEN }}
 
@@ -51,9 +51,18 @@ jobs:
         uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
         with:
           card: pin
-          options: "username=${{ github.repository_owner }}&repo=test-cronometer&show_owner=false&theme=radical&hide_border=true&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0,000000,0C0032"
+          options: "username=${{ github.repository_owner }}&repo=test-cronometer&show_owner=false&theme=radical&hide_border=true&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&bg_color=00000000"
           path: dist/pin-test-cronometer.svg
           token: ${{ secrets.STATS_TOKEN }}
+
+      - name: Generate streak card
+        run: |
+          # Serviço é lento a frio; se falhar, mantém a versão anterior do branch cards
+          curl -sf --retry 3 --retry-delay 5 --max-time 120 \
+            "https://streak-stats.demolab.com?user=ByelBardini&theme=radical&hide_border=true&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&background=00000000" \
+            -o dist/streak.svg \
+          || curl -sf "https://raw.githubusercontent.com/${{ github.repository }}/cards/streak.svg" -o dist/streak.svg \
+          || echo "streak indisponível neste run — segue sem o arquivo"
 
       - name: Publish to cards branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
