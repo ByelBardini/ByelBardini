@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="64" viewBox="0 0 880 64" role="img" aria-labelledby="hTitle">
+<title id="hTitle">ESTATÍSTICAS</title>
+<style><![CDATA[
+@font-face {
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-weight: 700;
+  src: url(data:font/woff2;base64,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) format('woff2');
+}
+.t { font-family: 'Orbitron', 'Segoe UI', monospace; font-weight: 700; }
+@keyframes flick { 0% { opacity: 0; } 8% { opacity: .9; } 14% { opacity: .25; } 22% { opacity: 1; } 30% { opacity: .5; } 42% { opacity: 1; } 100% { opacity: 1; } }
+.title-in { animation: flick 1s ease-out backwards; }
+@media (prefers-reduced-motion: reduce) { .title-in { animation: none; } }
+]]></style>
+<defs>
+  <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#FF00FF"/>
+    <stop offset="1" stop-color="#00FFFF"/>
+  </linearGradient>
+  <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#FF00FF" stop-opacity="0"/>
+    <stop offset=".3" stop-color="#FF00FF" stop-opacity="1"/>
+    <stop offset=".7" stop-color="#00FFFF" stop-opacity="1"/>
+    <stop offset="1" stop-color="#00FFFF" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="2.5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="titleGlow" x="-30%" y="-60%" width="160%" height="220%">
+    <feGaussianBlur stdDeviation="5" result="b1"/>
+    <feGaussianBlur stdDeviation="1.4" result="b2"/>
+    <feMerge><feMergeNode in="b1"/><feMergeNode in="b2"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<g class="title-in">
+  <text class="t" x="440" y="36" font-size="26" letter-spacing="6" text-anchor="middle" fill="url(#titleGrad)" filter="url(#titleGlow)" paint-order="stroke" stroke="#08001A" stroke-width="5" stroke-linejoin="round">ESTATÍSTICAS</text>
+</g>
+<rect x="287" y="48" width="306" height="2" rx="1" fill="url(#lineGrad)" filter="url(#glow)">
+  <animate attributeName="opacity" values="1;.55;1" dur="3s" repeatCount="indefinite"/>
+</rect>
+</svg>

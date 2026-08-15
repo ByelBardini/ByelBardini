@@ -26,7 +26,7 @@ jobs:
           if [ "$dias" -ge 50 ]; then
             echo "Repo parado — criando commit de keepalive."
             git config user.name "Gabryel"
-            git config user.email "gabryel.bardini@climba.com.br"
+            git config user.email "gabryel.b.bardini@gmail.com"
             git commit --allow-empty -m "chore: keepalive"
             git push
           else
