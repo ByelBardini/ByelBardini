@@ -42,9 +42,9 @@ Sou um **Desenvolvedor Full Stack** com **Bacharelado em Sistemas de Informaçã
 <div align="center">
 
 <a href="https://github.com/ByelBardini">
-  <img height="180em" src="https://raw.githubusercontent.com/ByelBardini/ByelBardini/cards/stats.svg" alt="estatísticas do GitHub" />
+  <img height="180em" src="https://raw.githubusercontent.com/ByelBardini/ByelBardini/cards/stats.svg?v=2" alt="estatísticas do GitHub" />
 
-  <img height="180em" src="https://raw.githubusercontent.com/ByelBardini/ByelBardini/cards/top-langs.svg" alt="linguagens mais usadas" />
+  <img height="180em" src="https://raw.githubusercontent.com/ByelBardini/ByelBardini/cards/top-langs.svg?v=2" alt="linguagens mais usadas" />
 </a>
 
 <br>
@@ -60,11 +60,11 @@ Sou um **Desenvolvedor Full Stack** com **Bacharelado em Sistemas de Informaçã
 </p>
 
 <p align="center">
-  <a href="https://github.com/ByelBardini/financial-control"><img src="https://raw.githubusercontent.com/ByelBardini/ByelBardini/cards/pin-financial-control.svg" alt="financial-control" /></a>
-  <a href="https://github.com/ByelBardini/us-politicians-explorer"><img src="https://raw.githubusercontent.com/ByelBardini/ByelBardini/cards/pin-us-politicians-explorer.svg" alt="us-politicians-explorer" /></a>
+  <a href="https://github.com/ByelBardini/financial-control"><img src="https://raw.githubusercontent.com/ByelBardini/ByelBardini/cards/pin-financial-control.svg?v=2" alt="financial-control" /></a>
+  <a href="https://github.com/ByelBardini/us-politicians-explorer"><img src="https://raw.githubusercontent.com/ByelBardini/ByelBardini/cards/pin-us-politicians-explorer.svg?v=2" alt="us-politicians-explorer" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/ByelBardini/test-cronometer"><img src="https://raw.githubusercontent.com/ByelBardini/ByelBardini/cards/pin-test-cronometer.svg" alt="test-cronometer" /></a>
+  <a href="https://github.com/ByelBardini/test-cronometer"><img src="https://raw.githubusercontent.com/ByelBardini/ByelBardini/cards/pin-test-cronometer.svg?v=2" alt="test-cronometer" /></a>
 </p>
 
 <p align="center">
